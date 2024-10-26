@@ -1,5 +1,5 @@
 ---
-title: 1Panel-an-open-source-Linux-panel-that-is-better-than-Pagoda 
+title: Panel-an-open-source-Linux-panel-that-is-better-than-Pagoda 
 description: Compared with relying solely on command line operations, it is much easier to manage servers using an operation and maintenance management panel with a graphical user interface.
 date: "2024-10-26T13:14:40.737Z" 
 ---
