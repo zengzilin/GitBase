@@ -1,5 +1,5 @@
 ---
-title: Panel-an-open-source-Linux-panel-that-is-better-than-Pagoda 
+title: 比宝塔更好的开源Linux面板 
 description: Compared with relying solely on command line operations, it is much easier to manage servers using an operation and maintenance management panel with a graphical user interface.
 date: '2024-10-26T13:14:40.737Z'
 ---
