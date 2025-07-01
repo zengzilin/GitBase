@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description: 'Open source dynamic website without database, built with Next.js and GitHub API',
   other: {
     'verify-yeahpromos': 'e25b8789a791'
-  }
+  },
 };
 
 interface RootLayoutProps {
