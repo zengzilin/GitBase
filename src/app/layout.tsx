@@ -8,10 +8,6 @@ import Script from "next/script";
 
 const inter = Inter({ subsets: ['latin'] })
 
-// 扩展 Metadata 类型以包含 meta 属性 
-type CustomMetadata = Metadata & { 
-  meta?: { name: string; content: string }[]; 
-}; 
 
 export const metadata: Metadata = {
   title: {
@@ -19,9 +15,9 @@ export const metadata: Metadata = {
     template: '%s | GitBase'
   },
   description: 'Open source dynamic website without database, built with Next.js and GitHub API',
-   meta: [ 
-        { name: 'verify-yeahpromos', content: 'e25b8789a791' }, 
-     ]
+  other: {
+    'verify-yeahpromos': 'e25b8789a791'
+  }
 };
 
 interface RootLayoutProps {
